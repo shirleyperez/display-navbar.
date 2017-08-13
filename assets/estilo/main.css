@@ -1,0 +1,153 @@
+ul {
+    background-color: black;
+}
+li {
+    display: inline-block;
+    padding: 20px;
+    list-style: none;
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover {
+    color: red;
+}
+span {
+    color: fuchsia;
+    margin: 0 100px;
+}
+code {
+  background: yellow;
+  display: block;
+  padding: 24px 15px;
+}
+codig {
+  background: red;
+   display: block;
+  padding: 24px 15px;
+  
+}
+codigo {
+  background: yellow;
+  display: inline-block;
+  padding: 24px 15px;
+  width: 10%;
+}
+codi {
+  background: red;
+  display: inline-block;
+  padding: 24px 15px;
+  width: 10%;
+}
+  codegoo {
+  background: yellow;
+   display: inline-block;
+  padding: 10px 10px;
+  width: 6%;
+}
+codegg {
+  background: red;
+  display: inline-block;
+  padding: 5px 0px;
+  width: 3%;
+}
+codigoo {
+  background: yellow;
+  display: inline-block;
+  padding: 10px 15px;
+  width: 10%;
+}
+codego {
+  background: yellow;
+   display: inline-block;
+  padding: 24px 15px;
+  width: 15%;
+}
+codeg {
+  background: red;
+  display: inline-block;
+  padding: 24px 15px;
+  width: 15%;
+}
+codego {
+  background: yellow;
+  display: inline-block;
+  padding: 24px 15px;
+  width: 15%;
+}
+#cajas {
+  width: 24%;
+  height: 90px;
+  background-color: grey;
+  border: 2px black solid;
+  opacity: 0.5;
+  display: block;
+  padding: 5px 1px;
+  position: absolute;
+  top: 1030px;
+  left: 1px;
+}
+codigogo {
+  background: grey;
+  display: block;
+  padding: 40px 20px;
+  width: 5%;
+  border: 2px black solid;
+  opacity: 0.5; 
+}
+codii {
+  background: grey;
+  display: inline-block;
+  padding: 40px 15px;
+  width: 5%;
+  background-color: grey;
+  border: 2px black solid;
+  opacity: 0.5;
+  left:10px;
+}
+codidi {
+  background: grey;
+  display: inline-block;
+  padding: 40px 15px;
+  width: 5%;
+  border: 2px black solid;
+  opacity: 0.5;
+}
+codede {
+  background: grey;
+  display: inline-block;
+  padding: 40px 15px;
+  width: 5%;
+  border: 2px black solid;
+  opacity: 0.5;
+
+}
+codigogoo {
+  background: grey;
+   display: inline-block;
+   padding: 40px 15px;
+  width: 5%;
+  border: 2px black solid;
+  opacity: 0.5;
+}
+codigno {
+  background: grey;
+   display: inline-block;
+   padding: 40px 15px;
+  width: 5%;
+  border: 2px black solid;
+  opacity: 0.5;
+}
+codigogo {
+ background: grey;
+   display: inline-block;
+  padding: 40px 15px;
+  width: 5%;
+  border: 2px black solid;
+  opacity: 0.5; 
+}
+
+
+
